@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/3-Stax/comfort_coolingv2.git/static/css/main.37260888.css",
-    "main.js": "/3-Stax/comfort_coolingv2.git/static/js/main.7716ee9d.js",
-    "static/js/902.478b5ae7.chunk.js": "/3-Stax/comfort_coolingv2.git/static/js/902.478b5ae7.chunk.js",
-    "index.html": "/3-Stax/comfort_coolingv2.git/index.html",
-    "main.37260888.css.map": "/3-Stax/comfort_coolingv2.git/static/css/main.37260888.css.map",
-    "main.7716ee9d.js.map": "/3-Stax/comfort_coolingv2.git/static/js/main.7716ee9d.js.map",
-    "902.478b5ae7.chunk.js.map": "/3-Stax/comfort_coolingv2.git/static/js/902.478b5ae7.chunk.js.map"
+    "main.css": "/3-Stax/comfort_coolingv2/static/css/main.37260888.css",
+    "main.js": "/3-Stax/comfort_coolingv2/static/js/main.9bc4b963.js",
+    "static/js/902.478b5ae7.chunk.js": "/3-Stax/comfort_coolingv2/static/js/902.478b5ae7.chunk.js",
+    "index.html": "/3-Stax/comfort_coolingv2/index.html",
+    "main.37260888.css.map": "/3-Stax/comfort_coolingv2/static/css/main.37260888.css.map",
+    "main.9bc4b963.js.map": "/3-Stax/comfort_coolingv2/static/js/main.9bc4b963.js.map",
+    "902.478b5ae7.chunk.js.map": "/3-Stax/comfort_coolingv2/static/js/902.478b5ae7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37260888.css",
-    "static/js/main.7716ee9d.js"
+    "static/js/main.9bc4b963.js"
   ]
 }
