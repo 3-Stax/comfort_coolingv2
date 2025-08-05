@@ -1,3 +1,4 @@
+// server/models/Contact.js
 const mongoose = require('mongoose');
 
 const contactSchema = new mongoose.Schema({
@@ -9,7 +10,7 @@ const contactSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  phone: {
+  phone: { // This field is required as per your schema
     type: String,
     required: true
   },
@@ -17,7 +18,7 @@ const contactSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  createdAt: {
+  createdAt: { // Good for tracking submission time
     type: Date,
     default: Date.now
   }
