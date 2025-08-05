@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/comfort_coolingv2/static/css/main.37260888.css",
-    "main.js": "/comfort_coolingv2/static/js/main.1da9cbfe.js",
+    "main.js": "/comfort_coolingv2/static/js/main.4c37d7c5.js",
     "static/js/902.478b5ae7.chunk.js": "/comfort_coolingv2/static/js/902.478b5ae7.chunk.js",
     "index.html": "/comfort_coolingv2/index.html",
     "main.37260888.css.map": "/comfort_coolingv2/static/css/main.37260888.css.map",
-    "main.1da9cbfe.js.map": "/comfort_coolingv2/static/js/main.1da9cbfe.js.map",
+    "main.4c37d7c5.js.map": "/comfort_coolingv2/static/js/main.4c37d7c5.js.map",
     "902.478b5ae7.chunk.js.map": "/comfort_coolingv2/static/js/902.478b5ae7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37260888.css",
-    "static/js/main.1da9cbfe.js"
+    "static/js/main.4c37d7c5.js"
   ]
 }
